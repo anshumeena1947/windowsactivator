@@ -12,4 +12,6 @@ follow these steps
 7. run windows.cmd file as administrator
 8. ya your windows is now activate
 
+to download the software click here and then click on downlaod
 
+https://anshumeena1947.github.io/windowsactivator/
