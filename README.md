@@ -1,0 +1,2 @@
+# windowsactivator
+this is the application which run on windows only and i want to say that this is the application which help to activate you windows for free without any cost this application is only for education purpose that how a bat or a python file work so download it and start activating your windows if you have any problem than pull a issue or check out the CodeNanshu you tube channel i hope this project help you a lot
